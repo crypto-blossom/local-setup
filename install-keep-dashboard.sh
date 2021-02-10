@@ -29,7 +29,7 @@ ln -sf build/contracts artifacts
 printf "${LOG_START}Install Keep Dashboard dependencies...${LOG_END}"
 
 cd $WORKDIR/keep-core/solidity/dashboard
-
+rm -f $WORKDIR/tbtc/solidity/package-lock.json
 npm install
 
 printf "${LOG_START}Updating Keep Dashboard dependencies...${LOG_END}"
