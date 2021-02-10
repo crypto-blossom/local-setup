@@ -1,18 +1,18 @@
 [submodule "keep-core"]
 	path = keep-core
-	url = https://github.com/keep-network/keep-core.git
+	url = https://github.com/crypto-blossom/keep-core.git
 [submodule "keep-ecdsa"]
 	path = keep-ecdsa
-	url = https://github.com/keep-network/keep-ecdsa.git
+	url = https://github.com/crypto-blossom/keep-ecdsa.git
 [submodule "tbtc"]
 	path = tbtc
-	url = https://github.com/keep-network/tbtc.git
+	url = https://github.com/crypto-blossom/tbtc.git
 [submodule "tbtc-dapp"]
 	path = tbtc-dapp
-	url = https://github.com/keep-network/tbtc-dapp.git
+	url = https://github.com/crypto-blossom/tbtc-dapp.git
 [submodule "tbtc.js"]
 	path = tbtc.js
-	url = https://github.com/keep-network/tbtc.js.git
+	url = https://github.com/crypto-blossom/tbtc.js.git
 [submodule "relays"]
 	path = relays
-	url = https://github.com/keep-network/relays.git
+	url = https://github.com/crypto-blossom/relays.git
